@@ -1,12 +1,12 @@
-#  Тестовый репозиторий
+#  Test repozitori
 
-## Заголовок 1
+## Zagolovok 1
 
-_тест_
+_test_
 
-## Заголовок 2
+## Zagolovok 2
 
-_тест_
+_test_
 
 ```
 def sum(a, b):
